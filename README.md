@@ -5,6 +5,7 @@
 - Link : [website]
 - Description : 
 - Features : 
+- List of dependencies : Vue2Edit, VueRouter,VueSvgLoader, VueX, quill, quill-image-size-module
 
 ### Hi there, I'm Fryderyk - Website:[website] 👋
 
